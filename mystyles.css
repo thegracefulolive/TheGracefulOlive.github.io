@@ -1,0 +1,44 @@
+h1{
+	font-size: 80px;
+	color: #80ffd4;
+	text-align: center;
+	font-family:'Poiret One', cursive;
+}
+p{
+	color: #ff99cc;
+	font-size: 40px;
+	text-align:center;
+	font-family: 'Shadows Into Light', cursive;
+	
+}
+#waddles:hover {
+	width:20%;
+	height:20%;
+}
+
+li{
+	color: #ff99cc;
+}
+h3{
+	color: #ffff80;
+	text-align:center;
+	font-size: 50px;
+	font-family: 'Dancing Script', cursive;
+}
+body{
+	background-color: #000000;
+	background-image: url("backgroung.png");
+	text-align:center;
+}
+#scratch {
+	color: #80ffd4;
+	text-align:center;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+}
+#python {
+	color: #80ffd4;
+	text-align:center;
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+}
